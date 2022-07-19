@@ -1,4 +1,6 @@
-# Introduction
+# Abstract
+
+This project conducted an item difficulty analysis by SAS.
 
 Item difficulty is an estimate of the skill level needed to pass an item. It is frequently measured by calculating the proportion of individuals passing an item. For example, in educational field, the item difficulty is simply the percentage of students who answer an item correctly. The item difficulty index ranges from 0 to 100; the higher the value, the easier the question.
 
