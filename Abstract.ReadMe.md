@@ -17,7 +17,7 @@ Before applying the test, descriptive statistic showed N = 100, mean = 0.65, SD 
 
 After applying the test, descriptive statistic showed N = 29, mean = 0.51, SD = 0.12, min = 0.3, max = 0.7
 
-29 items were retained within 0.3 and 0.7 interval.
+Finally, 29 items were retained within 0.3 and 0.7 interval.
 
 Mean item difficulty of the retained items is closer to the center point of measurement level (0.5) which describes the fittest scenario that items are not too easy or not too difficult, just at the right position.
 
